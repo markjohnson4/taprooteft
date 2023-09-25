@@ -1,0 +1,6 @@
+[submodule "themes/quick-pixels"]
+	path = themes/quick-pixels
+	url = https://github.com/toughpixels/quick-pixels.git
+[submodule "themes/base"]
+	path = themes/base
+	url = https://github.com/toughpixels/base.git
