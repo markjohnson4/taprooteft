@@ -14,10 +14,7 @@ date: 2022-02-05T16:59:33.139Z
 **Tapping into the root of the patterns that hold you back.**
 {{< /block >}}
 
-{{< block-shortcode class="flex justify-center align-top" >}}
-{{< preview-image >}}
-{{< child-links >}}
-{{< /block-shortcode >}}
+
 
 
 
