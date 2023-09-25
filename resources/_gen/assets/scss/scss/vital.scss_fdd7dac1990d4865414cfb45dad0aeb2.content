@@ -767,7 +767,7 @@ body.is-active .b-color-siteHeader {
   transform: rotate(90deg);
 }
 
-body.is-active main, body.is-active footer {
+body.is-active .nav, body.is-active main, body.is-active footer {
   display: none;
 }
 

@@ -7,6 +7,7 @@ description:
 ---
 {{< row type="footer" class="b-solid b-heavy-top b-color-alt bg-alt" >}}
 
-Footer here
+## External Links
+* [View my reviews on eftuniverse.com](https://eftuniverse.com/practitioners/?slug=sylvieliveinflagstaff-com#review-prac-section)
 
 {{< /row >}}
