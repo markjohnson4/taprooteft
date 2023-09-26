@@ -3,6 +3,7 @@ theme = ["quick-pixels", "base"]
 title = "Taproot EFT"
 baseURL = "https://taprooteft.netlify.app"
 
+
 # If you don't want english/spanish support,
 # comment out the below settings
 # delete the /content/es/ folder
@@ -44,7 +45,7 @@ disableKinds = ["taxonomy", "term"]
   showFooter = true
   showBreadcrumbs = false
   showMeta = false
-  showSiblingNavOfChildPages = false
+  showSiblingNavOfChildPages = true
   addExternalLinkJavascript = true
 
 [markup]
