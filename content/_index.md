@@ -15,11 +15,13 @@ date: 2022-02-05T16:59:33.139Z
 with love ❤️**
 {{< /block >}}
 
-{{< block-shortcode class="mx-auto mb-md" style="max-width: 18rem;" >}}
+{{< block-shortcode class="mx-auto" style="max-width: 18rem;" >}}
 {{< preview-image >}}
 {{< /block-shortcode >}}
 
+{{< block-shortcode class="mt-lg mx-auto" style="max-width: 18rem;" >}}
 {{< link class="btn btn-primary text-center" text="Schedule a session, buy a package of sessions, or receive a FREE consultation here!" url="https://taprooteft.as.me/schedule.php">}}  
+{{< /block-shortcode >}}
 
 {{< block-shortcode class="flex justify-center" >}}
 {{< child-links >}}
