@@ -5,7 +5,7 @@ draft: false
 weight: 0
 description: 
 ---
-{{< aside >}}
+{{< aside class="no-label mx-sm mb-md">}}
 {{< link class="btn btn-primary text-center" text="Schedule a session, buy a package of sessions, or receive a FREE consultation here!" url="https://taprooteft.as.me/schedule.php">}}  
 {{< /aside >}}
 
