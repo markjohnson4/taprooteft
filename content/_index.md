@@ -15,7 +15,7 @@ date: 2022-02-05T16:59:33.139Z
 with love ❤️**
 {{< /block >}}
 
-{{< block-shortcode class="mx-auto" style="max-width: 18rem;" >}}
+{{< block-shortcode class="mx-auto mb-md" style="max-width: 18rem;" >}}
 {{< preview-image >}}
 {{< /block-shortcode >}}
 
