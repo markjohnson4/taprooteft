@@ -1,5 +1,5 @@
 ---
-title: Consent/Liability/Financial forms
+title: Consent, Liability, and Financial forms
 draft: false
 hide_footer: true
 hide_bottom_nav: false
