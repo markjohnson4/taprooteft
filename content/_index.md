@@ -18,6 +18,9 @@ with love ❤️**
 {{< block-shortcode class="mx-auto" style="max-width: 18rem;" >}}
 {{< preview-image >}}
 {{< /block-shortcode >}}
+
+{{< link class="btn btn-primary text-center" text="Schedule a session, buy a package of sessions, or receive a FREE consultation here!" url="https://taprooteft.as.me/schedule.php">}}  
+
 {{< block-shortcode class="flex justify-center" >}}
 {{< child-links >}}
 {{< /block-shortcode >}}
