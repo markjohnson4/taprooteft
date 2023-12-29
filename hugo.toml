@@ -29,7 +29,7 @@ baseURL = "https://taprooteft.com"
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  description = ""
+  description = "Tapping into the root of the patterns that hold you back, with love ❤️"
   homeLinkText = "Home"
   imageSizes = "736 288"
   imageFormats = "webp jpg"
