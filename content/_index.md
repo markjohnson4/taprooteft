@@ -2,7 +2,7 @@
 title: Taproot EFT
 draft: false
 preview_image:
-  image: /img/sylvie2.jpeg
+  image: /img/sylvie-new.jpeg
   alt: A picture of Sylvie, smiling
 hide_footer: true
 hide_bottom_nav: false
@@ -18,7 +18,9 @@ with love ❤️**
 {{< block-shortcode class="mx-auto" style="max-width: 18rem;" >}}
 {{< preview-image >}}
 {{< /block-shortcode >}}
+{{< replacement name="session-buttons" >}}
 {{< block-shortcode class="flex justify-center" >}}
+
 {{< child-links >}}
 {{< /block-shortcode >}}
 
