@@ -9,6 +9,11 @@ description:
 {{< replacement name="session-buttons" >}}
 
 {{< block class="text-center mx-auto" style="max-width: 26rem" >}}
-*In order to receive a session from me, you must agree to my [terms of use](/terms/).*
+## Follow me
+[Instagram](https://www.instagram.com/taprooteft)  
+[YouTube](https://www.youtube.com/@TaprootEFT)  
+[Facebook](https://www.facebook.com/TaprootEFT)
 {{< /block >}}
+
+
 {{< /row >}}
