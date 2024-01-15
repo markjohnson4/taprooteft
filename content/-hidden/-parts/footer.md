@@ -10,6 +10,7 @@ description:
 
 {{< block class="text-center mx-auto" style="max-width: 26rem" >}}
 ## Follow me
+test
 [{{ readFile "static/icons/instagram.svg" | safeHTML }}Instagram](https://www.instagram.com/taprooteft)  
 [YouTube](https://www.youtube.com/@TaprootEFT)  
 [Facebook](https://www.facebook.com/TaprootEFT)
