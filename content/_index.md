@@ -19,8 +19,8 @@ with love ❤️**
 {{< preview-image >}}
 {{< /block-shortcode >}}
 {{< replacement name="session-buttons" >}}
-{{< block-shortcode class="flex justify-center" >}}
 
+{{< block-shortcode class="flex justify-center" >}}
 {{< child-links >}}
 {{< /block-shortcode >}}
 
