@@ -10,6 +10,8 @@ menu: none
 weight: 0
 date: 2022-02-05T16:59:33.139Z
 ---
+
+
 {{< block class="text-center" >}}
 **Tapping into the root of the patterns that hold you back,   
 with love ❤️**
