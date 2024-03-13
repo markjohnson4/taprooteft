@@ -47,6 +47,7 @@ disableKinds = ["taxonomy", "term"]
   showBreadcrumbs = false
   showMeta = false
   showSiblingNavOfChildPages = true
+  showTableOfContents = false
   addExternalLinkJavascript = true
 
 [markup]

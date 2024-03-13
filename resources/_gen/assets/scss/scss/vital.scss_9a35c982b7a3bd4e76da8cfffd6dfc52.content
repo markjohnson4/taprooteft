@@ -7,6 +7,7 @@ body {
 *::before,
 *::after {
   box-sizing: border-box;
+  margin: 0;
 }
 
 textarea {
@@ -18,7 +19,6 @@ table {
 }
 
 img,
-svg,
 video,
 canvas,
 audio,
@@ -26,7 +26,6 @@ iframe,
 embed,
 object {
   display: block;
-  vertical-align: middle;
 }
 
 img,
@@ -309,12 +308,12 @@ p:empty {
   display: none;
 }
 
-.block, div, h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, audio, picture, figure {
+.block, div, h1, h2, h3, h4, h5, h6, p, li, ul, ol, blockquote, audio, picture, figure {
   margin-top: 1.5em;
 }
 
-li {
-  margin-top: 1em;
+.inner-my-compact .block, .inner-my-compact div, .inner-my-compact h1, .inner-my-compact h2, .inner-my-compact h3, .inner-my-compact h4, .inner-my-compact h5, .inner-my-compact h6, .inner-my-compact p, .inner-my-compact li, .inner-my-compact ul, .inner-my-compact ol, .inner-my-compact blockquote, .inner-my-compact audio, .inner-my-compact picture, .inner-my-compact figure {
+  margin-top: 0.5em;
 }
 
 img {
